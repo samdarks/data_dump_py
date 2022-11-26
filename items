@@ -1,0 +1,96 @@
+item_id,item_name,sku,description,rate,account,account_code,tax_name,tax_percentage,tax_type,purchase_tax_name,purchase_tax_percentage,purchase_tax_type,product_type,source,reference_id,last_sync_time,status,usage_unit,purchase_rate,purchase_account,purchase_account_code,purchase_description,inventory_account,inventory_account_code,reorder_point,vendor,opening_stock,opening_stock_value,stock_on_hand,item_type
+2620362000000082040,Sea Freight Export,,,0.0,Freight,211000012.0,,,,,,,goods,1,,,Active,,0.0,Air or Sea Freight,221220001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082105,Sea Freight Import,,,0.0,Freight,211000012.0,,,,,,,service,1,,,Active,,0.0,Air or Sea Freight,221220001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082180,Origin Custom Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082291,Air Freight Export,,,0.0,Air,211000002.0,,,,,,,service,1,,,Active,,0.0,Air Freight-Export,221211001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082427,Sea Export - 1st / Last mile transportation,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082436,Sea Export - 1s / Last mile labour,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000082510,Sea Export - Shipping line charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079450,Sea Import Destination Customs Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079459,Sea Export Terminal Charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079472,Sea Import Terminal Charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079481,Sea Import Destination Regulatory Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Sea import - Destination Regulators - Certificates,221221015.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079490,Service fee,,,0.0,Service fee,211000016.0,,,,,,,service,1,,,Active,,0.0,Administrative fees,221100001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079503,Sea Import First/Last Mile Transportation,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000083050,Sea Export - Origin Custom Duties,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000079687,Sea Export Destination Customs Duties,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Sea export - Destination Custom Duties,221222013.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000083189,Sea Export - Origin Regulator Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000085001,Air Export - Shipping line charges,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000085010,Air Export - Origin Custom Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,goods,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000085019,Air Export - 1st / Last mile transportation,,,0.0,First/Last mile,211000017.0,,,,,,,goods,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000085028,Air Export - Terminal admin charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000085227,Air Export - 1st / Last mile labor,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000084412,Sea Export Shipping line charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000084669,Sea Export-Terminal Administrative Charges,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000086049,Air Freight Import,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Air Freight-Import,221212001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000086058,Air Import Destination Customs Duties,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000086067,Air Import First/last mile-Transportation,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000086076,Air Import  Terminal Administrative Charges,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000086155,Air Destination Regulatory Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000088283,Sea Import - 1st / Last mile labor,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000088751,Sea Export - Destination Regulator certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000089169,USSD Rental Fee,,,0.0,Sales,212000001.0,,,,,,,service,1,,,Active,,0.0,IT and Internet Expenses,223100001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000089402,Salaries and Compensation,,,0.0,Sales,212000001.0,,,,,,,goods,1,,,Active,,0.0,Salaries and Employee Wages,222010001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000090280,Sea Import - Shipping line charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000090289,Sea Import - Origin Regulator Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000089578,Electrical work at Jetcenter-Tema,,,0.0,Sales,212000001.0,,,,,,,service,1,,,Active,,0.0,Repairs and Maintenance,223500004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000090334,Sea Import - Origin Custom Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000092049,Slack Quarterly Charge,,,0.0,Sales,212000001.0,,,,,,,service,1,,,Active,,0.0,IT and Internet Expenses,223100001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000103007,Taxes,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Taxes,223600000.0,,Inventory Asset,113000002.0,,,,,,Purchases
+2620362000000105014,Car Maintenance,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Repairs and Maintenance,223500004.0,,Inventory Asset,113000002.0,,,,,,Purchases
+2620362000000108011,Professional services fees,,,0.0,,,,,,,,,goods,1,,,Active,,0.0,Consultant Expense,224000001.0,,Inventory Asset,113000002.0,,,,,,Purchases
+2620362000000118007,Late Fee Income-TF,,,0.0,Trade Finance,213000001.0,,,,,,,service,1,,,Active,,0.0,Interest rate on trade finance loan,221230004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000118569,Air export - Destination Regulator certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000125457,Overhead,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Other Expenses,223500005.0,,,,,,,,,Purchases
+2620362000000126001,Office managemet,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Office Supplies,223000001.0,,,,,,,,,Purchases
+2620362000000127001,Insurance,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Insurance,223500007.0,,,,,,,,,Purchases
+2620362000000128055,Car Purchase,,,0.0,,,,,,,,,goods,1,,,Active,,0.0,Automobile Expense,223500002.0,,Inventory Asset,113000002.0,,,,,,Purchases
+2620362000000130087,Training,,,0.0,,,,,,,,,service,1,,,Active,,0.0,Training,222020001.0,,,,,,,,,Purchases
+2620362000000130888,Air import Airline charges,,,0.0,Air,211000002.0,,,,,,,goods,1,,,Active,,0.0,Air import - Airline charges,221212007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000130897,Air import Terminal charges,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000130906,Air import 1st / last mile labor,,,0.0,First/Last mile,211000017.0,,,,,,,service,1,,,Active,,0.0,First/last Mile delivery,221221002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000132311,Air export Destination Custom Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,goods,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000132462,Air import Destination Regulators Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,service,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000133256,Air import Origin Custom Duties,,,0.0,Customs brokerage,211000014.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000131695,GRA Tax Audit Consultancy,,,0.0,Sales,212000001.0,,,,,,,service,1,,,Active,,0.0,Consultant Expense,224000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000140210,Interest Charge 4%,,,0.0,Sales,212000001.0,,,,,,,service,1,,,Active,,0.0,Cost of Goods Sold,221000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000140269,Customs Duties - MEDUST626562 Payment Of Bill No. : TMA1-A-40521240255-03 Payment Of Bill No. : TMA1-P-2021-0051106 Payment Of Bill No. : TMA1-P-2021-0049854,,,0.0,Customs brokerage,211000014.0,,,,,,,service,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000142102,Sea Import destination charges,,,0.0,Sea,211000003.0,,,,,,,service,1,,,Active,,0.0,Sea import - Destination Custom Duties,221221013.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000143358,Laptop Purchase,,,0.0,Sales,212000001.0,,,,,,,goods,1,,,Active,,0.0,Cost of Goods Sold,221000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000150001,Consultancy fees,,,0.0,,,,,,,,,goods,1,,,Active,,0.0,Consultant Expense,224000001.0,,Inventory Asset,113000002.0,,,,,,Purchases
+2620362000000203009,Air Export Origin Regulatory Certificates,,,0.0,Regulated bodies,211000015.0,,,,,,,goods,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209055,Invoice Financing,,,0.0,Principal	Invoice Financing,213000001.0,,,,,,,service,1,,,Active,,0.0,Invoice Financing - COGS,221230001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209064,Duty Financing,,,0.0,Principal	Duty Financing,213000004.0,,,,,,,service,1,,,Active,,0.0,Duty Financing - COGS,221230002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209073,Cargo Financing,,,0.0,Principal	Cargo Financing,213000003.0,,,,,,,service,1,,,Active,,0.0,Cargo Financing - COGS,221230003.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209082,Invoice Financing - Interest Charges,,,0.0,Interest - Invoice Financing,213100001.0,,,,,,,service,1,,,Active,,0.0,Interest charges on Trade Finance,221230004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209091,Duty Financing - Interest Charges,,,0.0,Interest - Duty Financing,213100002.0,,,,,,,service,1,,,Active,,0.0,Interest charges on Trade Finance,221230004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000209100,Cargo Financing - Interest Charges,,,0.0,Interest - Cargo Financing,213100003.0,,,,,,,service,1,,,Active,,0.0,Interest charges on Trade Finance,221230004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000236211,sea import Clearing Charges,,,0.0,Logistics,211000013.0,,,,,,,service,1,,,Active,,0.0,Cost of Goods Sold,221000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000285049,Employee Expenses,,,0.0,,,,,,,,,goods,1,,,Active,,0.0,Accomodation,222101001.0,,,,,,,,,Purchases
+2620362000000570835,Repayment Commission,,,0.0,Repayment Commission,211000011.0,,,,,,,service,1,,,Active,,0.0,,,,,,,,,,,Sales
+2620362000000588065,Marketing and advertising (Reimbursement),,,0.0,Sales,212000001.0,,,,,,,goods,1,,,Active,,0.0,Cost of Goods Sold,221000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000000670867,Freight - Sea,,,0.0,,,,,,,,,goods,1,,,Active,,17875.60864,Air or Sea Freight,221220001.0,,,,,,,,,Purchases
+2620362000000673164,Destination Delivery,,,0.0,,,,,,,,,goods,1,,,Active,,9800.0,Cost of Goods Sold,221000001.0,,,,,,,,,Purchases
+2620362000000673263,Terminal Charges,,,0.0,,,,,,,,,goods,1,,,Active,,1985.0,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000673352,Freight - Air,,,0.0,,,,,,,,,goods,1,,,Active,,23222.63,Sea import - Destination Regulators - Certificates,221221015.0,,,,,,,,,Purchases
+2620362000000673393,Origin Customs Clearance,,,0.0,,,,,,,,,goods,1,,,Active,,200.0,Customs brokerage costs,221221004.0,,,,,,,,,Purchases
+2620362000000673476,Sea Freight,,,0.0,,,,,,,,,goods,1,,,Active,,8963.24,Air or Sea Freight,221220001.0,,,,,,,,,Purchases
+2620362000000673719,"Pallets, Palletizing & Transport",,,0.0,,,,,,,,,goods,1,,,Active,,280.0,Sea import - Destination Regulators - Certificates,221221015.0,,,,,,,,,Purchases
+2620362000000673880,Origin Terminal Charges,,,0.0,,,,,,,,,goods,1,,,Active,,361.03,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000673995,Origin Shipping Line Charges,,,0.0,,,,,,,,,goods,1,,,Active,,1462.5,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000674078,Certificate of Origin,,,0.0,,,,,,,,,goods,1,,,Active,,150.0,Regulated bodies costs,221221006.0,,,,,,,,,Purchases
+2620362000000674119,Destination Customs Clearance,,,0.0,,,,,,,,,goods,1,,,Active,,389.4,Customs brokerage costs,221221004.0,,,,,,,,,Purchases
+2620362000000674394,Packaging,,,0.0,,,,,,,,,goods,1,,,Active,,350.0,Cost of Goods Sold,221000001.0,,,,,,,,,Purchases
+2620362000000674515,Customs Declaration,,,0.0,,,,,,,,,goods,1,,,Active,,179348.98,Customs brokerage costs,221221004.0,,,,,,,,,Purchases
+2620362000000674588,Local Shipping Line Charges,,,0.0,,,,,,,,,goods,1,,,Active,,43663.0,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000674863,Destination Terminal Charges,,,0.0,,,,,,,,,goods,1,,,Active,,10772.21,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000674904,Destination Shipping Line Charges,,,0.0,,,,,,,,,goods,1,,,Active,,40025.9,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000675439,Food and Drugs Board Fees,,,0.0,,,,,,,,,goods,1,,,Active,,3923.79,Cost of Goods Sold,221000001.0,,,,,,,,,Purchases
+2620362000000675506,Consultancy Fees,,,0.0,,,,,,,,,goods,1,,,Active,,2515.72,Consultant Expense,224000001.0,,,,,,,,,Purchases
+2620362000000675615,Export Shipping line Charges,,,0.0,,,,,,,,,goods,1,,,Active,,10726.048055,Logistics costs,221221007.0,,,,,,,,,Purchases
+2620362000000917225,Bolt Expenses,,,0.0,Sales,212000001.0,,,,,,,goods,1,,,Active,,0.0,Transport (Local),223400002.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000001086561,Office Supplies,,,34.986162,Sales,212000001.0,,,,,,,goods,2,,,Active,,0.0,Office Supplies,223000001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000002130065,Sea or Air freight,,,0.0,Freight,211000012.0,,,,,,,goods,1,,,Active,,0.0,Air or Sea Freight,221220001.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000002130192,Customs brokerage,,,0.0,Customs brokerage,211000014.0,,,,,,,goods,1,,,Active,,0.0,Customs brokerage costs,221221004.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000002130225,Regulated bodies costs,,,0.0,Regulated bodies,211000015.0,,,,,,,goods,1,,,Active,,0.0,Regulated bodies costs,221221006.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases
+2620362000002130302,Logistics services,,,0.0,Logistics,211000013.0,,,,,,,goods,1,,,Active,,0.0,Logistics costs,221221007.0,,Inventory Asset,113000002.0,,,,,,Sales and Purchases

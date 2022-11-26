@@ -1,0 +1,258 @@
+account_id,account_name,account_code,description,account_type,mileage_rate,mileage_unit,ismileage,account_number,currency,parent_account
+2620362000000010001,Other Charges,223500001.0,Miscellaneous charges like adjustments made to the invoice can be recorded in this account.,Income,0.0,,False,,GHS,
+2620362000000032023,Lodging,223400001.0,Any expense related to putting up at motels etc while on business travel can be entered here.,Expense,0.0,,False,,GHS,
+2620362000000000358,Undeposited Funds,111000001.0,Record funds received by your company yet to be deposited in a bank as undeposited funds and group them as a current asset in your balance sheet.,Cash,0.0,,False,,GHS,
+2620362000000000361,Petty Cash,111000002.0,It is a small amount of cash that is used to pay your minor or casual expenses rather than writing a check.,Cash,0.0,,False,,GHS,Undeposited Funds
+2620362000000078007,MTN Mobile Money,1110000030,,Cash,0.0,,False,,GHS,Undeposited Funds
+2620362000000081041,PayPal,1110000040,,Cash,0.0,,False,,GHS,Undeposited Funds
+2620362000000120253,Transfer Wise,111000005.0,,Cash,0.0,,False,,GHS,Undeposited Funds
+2620362000000000364,Accounts Receivable,111000006.0,The money that customers owe you becomes the accounts receivable. A good example of this is a payment expected from an invoice sent to your customer.,Accounts Receivable,0.0,,False,,GHS,
+2620362000000000367,Furniture and Equipment,113000001.0,Purchases of furniture and equipment for your office that can be used for a long period of time usually exceeding one year can be tracked with this account.,Fixed Asset,0.0,,False,,GHS,
+2620362000000000370,Advance Tax,112000001.0,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",Other Current Asset,0.0,,False,,GHS,
+2620362000000000373,Accounts Payable,121000001.0,"This is an account of all the money which you owe to others like a pending bill payment to a vendor,etc.",Accounts Payable,0.0,,False,,GHS,
+2620362000000000376,Tax Payable,121000002.0,The amount of money which you owe to your tax authority is recorded under the tax payable account. This amount is a sum of your outstanding in taxes and the tax charged on sales.,Other Current Liability,0.0,,False,,GHS,
+2620362000000000379,Retained Earnings,124000001.0,The earnings of your company which are not distributed among the share holders is accounted as retained earnings.,Equity,0.0,,False,,GHS,
+2620362000000000382,Owner's Equity,124000002.0,The owners rights to the assets of a company can be quantified in the owner''s equity account.,Equity,0.0,,False,,GHS,
+2620362000000000385,Opening Balance Offset,124000003.0,This is an account where you can record the balance from your previous years earning or the amount set aside for some activities. It is like a buffer account for your funds.,Equity,0.0,,False,,GHS,
+2620362000000000388,Sales,212000001.0,The income from the sales in your business is recorded under the sales account.,Income,0.0,,False,,GHS,
+2620362000000082089,Freight Forwarding,211000001.0,,Income,0.0,,False,,GHS,Sales
+2620362000000160051,Air,211000002.0,,Income,0.0,,False,,GHS,Freight Forwarding
+2620362000000160055,Sea,211000003.0,,Income,0.0,,False,,GHS,Freight Forwarding
+2620362000000570831,Repayment Commission,211000011.0,,Income,0.0,,False,,GHS,Freight Forwarding
+2620362000000082093,Trade Finance,213000001.0,,Income,0.0,,False,,GHS,Sales
+2620362000000209001,Principal	Invoice Financing,213000001.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000209005,Principal	Duty Financing,213000004.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000209009,Principal	Cargo Financing,213000003.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000209013,Interest - Invoice Financing,213100001.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000209017,Interest - Duty Financing,213100002.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000209021,Interest - Cargo Financing,213100003.0,,Income,0.0,,False,,GHS,Trade Finance
+2620362000000000391,General Income,212000002.0,A general category of account where you can record any income which cannot be recorded into any other category.,Income,0.0,,False,,GHS,
+2620362000000005001,Unearned Revenue,121000003.0,"A liability account that reports amounts received in advance of providing goods or services. When the goods or services are provided, this account balance is decreased and a revenue account is increased.",Other Current Liability,0.0,,False,,GHS,
+2620362000000000394,Interest Income,212000003.0,A percentage of your balances and deposits are given as interest to you by your banks and financial institutions. This interest is recorded into the interest income account.,Income,0.0,,False,,GHS,
+2620362000000000397,Late Fee Income - FF,212000004.0,Any late fee income is recorded into the late fee income account. The late fee is levied when the payment for an invoice is not received by the due date.,Income,0.0,,False,,GHS,
+2620362000000000400,Office Supplies,223000001.0,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Expense,0.0,,False,,GHS,
+2620362000000000403,Advertising And Marketing,223300001.0,"Your expenses on promotional, marketing and advertising activities like banners, web-adds, trade shows, etc. are recorded in advertising and marketing account.",Expense,0.0,,False,,GHS,
+2620362000000000406,Discount,212000005.0,Any reduction on your selling price as a discount can be recorded into the discount account.,Income,0.0,,False,,GHS,
+2620362000000000409,Bank Fees and Charges,223200001.0,"Any bank fees levied is recorded into the bank fees and charges account. A bank account maintenance fee, transaction charges, a late payment fee are some examples.",Expense,0.0,,False,,GHS,
+2620362000000000412,Credit Card Charges,223200002.0,"Service fees for transactions , balance transfer fees, annual credit fees and other charges levied on a credit card are recorded into the credit card account.",Expense,0.0,,False,,GHS,
+2620362000000000415,Exchange Gain or Loss,223200003.0,Changing the conversion rate can result in a gain or a loss. You can record this into the exchange gain or loss account.,Other Expense,0.0,,False,,GHS,
+2620362000000000418,Travel Expense,223400002.0,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",Expense,0.0,,False,,GHS,
+2620362000000000421,Telephone Expense,223000002.0,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",Expense,0.0,,False,,GHS,
+2620362000000000424,Automobile Expense,223500002.0,"Transportation related expenses like fuel charges and maintenance charges for automobiles, are included to the automobile expense account.",Expense,0.0,,False,,GHS,
+2620362000000000427,IT and Internet Expenses,223100001.0,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",Expense,0.0,,False,,GHS,
+2620362000000000430,Rent Expense,223000003.0,The rent paid for your office or any space related to your business can be recorded as a rental expense.,Expense,0.0,,False,,GHS,
+2620362000000000433,Janitorial Expense,223000004.0,All your janitorial and cleaning expenses are recorded into the janitorial expenses account.,Expense,0.0,,False,,GHS,
+2620362000000014001,Shipping Charge,223000005.0,Shipping charges made to the invoice will be recorded in this account.,Income,0.0,,False,,GHS,
+2620362000000000436,Postage,223000006.0,"Your expenses on ground mails, shipping and air mails can be recorded under the postage account.",Expense,0.0,,False,,GHS,
+2620362000000000439,Bad Debt,223200004.0,Any amount which is lost and is unrecoverable is recorded into the bad debt account.,Expense,0.0,,False,,GHS,
+2620362000000035001,Employee Advance,112000002.0,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Other Current Asset,0.0,,False,,GHS,
+2620362000000003001,Opening Balance Adjustments,121000004.0,This account will hold the difference in the debits and credits entered during the opening balance.,Other Current Liability,0.0,,False,,GHS,
+2620362000000000442,Printing and Stationery,223000007.0,Expenses incurred by the organization towards printing and stationery.,Expense,0.0,,False,,GHS,
+2620362000000035003,Employee Reimbursements,121000005.0,This account can be used to track the reimbursements that are due to be paid out to employees.,Other Current Liability,0.0,,False,,GHS,
+2620362000000035005,Uncategorized,223500003.0,This account can be used to temporarily track expenses that are yet to be identified and classified into a particular category,Expense,0.0,,False,,GHS,
+2620362000000000445,Salaries and Employee Wages,222010001.0,Salaries for your employees and the wages paid to workers are recorded under the salaries and wages account.,Expense,0.0,,False,,GHS,
+2620362000000000448,Meals and Entertainment,223400003.0,Expenses on food and entertainment are recorded into this account.,Expense,0.0,,False,,GHS,
+2620362000000000451,Depreciation Expense,225000001.0,Any depreciation in value of your assets can be captured as a depreciation expense.,Expense,0.0,,False,,GHS,
+2620362000000000454,Consultant Expense,224000001.0,Charges for availing the services of a consultant is recorded as a consultant expenses. The fees paid to a soft skills consultant to impart personality development training for your employees is a good example.,Expense,0.0,,False,,GHS,
+2620362000000045001,Tag Adjustments,123000001.0,This adjustment account tracks the transfers between different reporting tags.,Other Liability,0.0,,False,,GHS,
+2620362000000000457,Repairs and Maintenance,223500004.0,The costs involved in maintenance and repair of assets is recorded under this account.,Expense,0.0,,False,,GHS,
+2620362000000000460,Other Expenses,223500005.0,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Expense,0.0,,False,,GHS,
+2620362000000034001,Inventory Asset,113000002.0,An account which tracks the value of goods in your inventory.,Stock,0.0,,False,,GHS,
+2620362000000034003,Cost of Goods Sold,221000001.0,An expense account which tracks the value of the goods sold.,Cost Of Goods Sold,0.0,,False,,GHS,
+2620362000000082071,Air or Sea Freight,221220001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Cost of Goods Sold
+2620362000000082077,Sea Freight - Import,221221001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air or Sea Freight
+2620362000000082083,First/last Mile delivery,221221002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079013,First/last Mile-Labour IMP,221221003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079031,Origin Custom Interest Charges IMP,221221005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079037,Regulated bodies costs,221221006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079049,Shipping line-Administrative Charges IMP,221221008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079055,Shipping line-Demurrages IMP,221221009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079061,Terminal-Demurrage IMP,221221010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079071,Terminal-Storage IMP,221221011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079077,Terminal-Administrative Fees S/IMP,221221012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079083,Destination Custom Duties IMP,221221013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079095,Destination Customs Interest Charges IMP,221221014.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079101,Destination Regulator Certificates,221221015.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125093,First/last Mile delivery',221221002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125099,Sea import - First/last Mile - Labour,221221003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125111,Sea import - Origin Custom - Interest charges,221221005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125129,Sea import - Shipping line charges - Administrative charges,221221008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125135,Sea import - Shipping line charges - Demurrages,221221009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125141,Sea import - Terminal charges - Demurrage,221221010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125147,Sea import - Terminal charges - Storage,221221011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125153,Sea import - Terminal charges - Administrative fees,221221012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125159,Sea import - Destination Custom Duties,221221013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125165,Sea import - Destination Custom - Interest charges,221221014.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000125171,Sea import - Destination Regulators - Certificates,221221015.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight - Import
+2620362000000079113,Sea Freight-Export,221222001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air or Sea Freight
+2620362000000079119,First/Last Mile-Transportation EXP,221222002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079125,First/Last Mile-labour EXP,221222003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079131,Custom Origin-Customs Duties EXP,221222004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079141,Origin Customs Interest charges EXP,221222005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079147,Origin Regulators-Certificates EXP,221222006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079153,Shipping line-Freight EXP,221222007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079159,Shipping line-Administrative Charges EXP,221222008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079165,Shipping line-Demurrages EXP,221222009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079171,Terminal-Demurage EXP,221222010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079177,Terminal-Storage EXP,221222011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079183,Terminal-Administrative Fees EXP,221222012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079189,Destination Customs Duties EXP,221222013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079195,Destination customs interest charge EXP,221222014.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000079201,Destination Regulators Certificates EXP,221222015.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125183,Sea export - First/Last Mile - Transportation,221222002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125189,Sea export - First/Last Mile - Labour,221222003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125195,Sea export - Origin Custom Duties,221222004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125201,Sea export - Origin Custom - Interest charges,221222005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125207,Sea export - Origin Regulators - Certificates,221222006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125213,Sea export - Shipping line charges,221222007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125219,Sea export - Shipping line charges - Administrative charges,221222008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125225,Sea export - Shipping line charges - Demurrages,221222009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125231,Sea export - Terminal charges - Demurage,221222010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125237,Sea export - Terminal chrages - Storage,221222011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125243,Sea export - Terminal charges - Administrative fees,221222012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125249,Sea export - Destination Custom Duties,221222013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125255,Sea export - Destination Custom - Interest charges,221222014.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125261,Sea export - Destination Regulators - Certificates,221222015.0,,Cost Of Goods Sold,0.0,,False,,GHS,Sea Freight-Export
+2620362000000125177,Sea Freight - Export,221222001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air or Sea Freight
+2620362000000079107,Administrative fees,221100001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Cost of Goods Sold
+2620362000000082275,Air Freight,221210001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Cost of Goods Sold
+2620362000000082281,Air Freight-Export,221211001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight
+2620362000000079301,First/Last Mile-Transportation A/EXP,221211002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079307,First/Last Mile-Labour A/EXP,221211003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079313,Origin Customs Duties A/EXP,221211004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079323,Origin Custom-Interest Charge A/EXP,221211005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079329,Origin Regulators-Certificates A/EXP,221211006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079335,Airline-Freight shipping line chardes EXP,221211007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079341,Airline-Administrative Charges EXP,221211008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079347,Terminal-Warehouse Storage A/EXP,221211009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079353,Terminal-Administrative Fees A/EXP,221211010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079359,Destination Customs Duties A/EXP,221211011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079367,Destination Customs Interest charge A/EXP,221211012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079373,Destination Regulators-Certificates A/EXP,221211013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125277,Air export - First/Last Mile - Transportation,221211002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125283,Air export - First/Last Mile - Labour,221211003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125289,Air export - Origin Customs Duties,221211004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125295,Air export - Origin Custom - Interest charge,221211005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125301,Air export - Origin Regulators - Certificates,221211006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125307,Air export - Airline charges,221211007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125313,Air export - Airline charges - Administrative charges,221211008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125319,Air export - Terminal charges - Warehouse storage,221211009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125325,Air export - Terminal charges - Administrative fees,221211010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125331,Air export - Destination Customs Duties,221211011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125337,Air export - Destination Custom - Interest charge,221211012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000125343,Air export - Destination Regulators - Certificates,221211013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Export
+2620362000000079215,Air Freight-Import,221212001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight
+2620362000000079223,First/Last Mile-Transportation A/IMP,221212002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079229,First/Last Mile-Labour A/IMP,221212003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079235,Origin Customs Duties A/IMP,221212004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079241,Origin Custom Interest charges A/IMP,221212005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079251,Origin Regulators Certificates A/IMP,221212006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079257,Airline-Freight IMP,221212007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079263,Airline-Administrative Charges IMP,221212008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079269,Terminal-Warehouse Storage IMP,221212009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079277,Terminal-Administrative Fees IMP,221212010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079283,Destination Customs Duties IMP,221212011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079289,Destination Customs Interest charge IMP,221212012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000079295,Destination Regulators Certificates IMP,221212013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125351,Air import - First/Last Mile - Transportation,221212002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125357,Air import - First/Last Mile - Labour,221212003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125363,Air import - Origin Customs Duties,221212004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125369,Air import - Origin Custom - Interest charges,221212005.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125375,Air import - Origin Regulators - Certificates,221212006.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125381,Air import - Airline charges,221212007.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125387,Air import - Airline charges - Administrative charges,221212008.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125393,Air import - Terminal charges - Warehouse storage,221212009.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125399,Air import - Terminal charges - Administrative fees,221212010.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125405,Air import - Destination Customs Duties,221212011.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125411,Air import - Destination Custom - Interest charges,221212012.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125417,Air import - Destination Regulators - Certificate,221212013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight-Import
+2620362000000125271,Air Freight - Export,221211001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight
+2620362000000203001,Air Export Origin Regulatory Certificates,221211013.0,,Cost Of Goods Sold,0.0,,False,,GHS,Air Freight - Export
+2620362000000209025,Trade Finance - COGS,221230000.0,,Cost Of Goods Sold,0.0,,False,,GHS,Cost of Goods Sold
+2620362000000209031,Invoice Financing - COGS,221230001.0,,Cost Of Goods Sold,0.0,,False,,GHS,Trade Finance - COGS
+2620362000000209037,Duty Financing - COGS,221230002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Trade Finance - COGS
+2620362000000209043,Cargo Financing - COGS,221230003.0,,Cost Of Goods Sold,0.0,,False,,GHS,Trade Finance - COGS
+2620362000000209049,Interest charges on Trade Finance,221230004.0,,Cost Of Goods Sold,0.0,,False,,GHS,Trade Finance - COGS
+2620362000000417301,Technology platform development,221100002.0,,Cost Of Goods Sold,0.0,,False,,GHS,Cost of Goods Sold
+2620362000000012001,Drawings,124000004.0,The money withdrawn from a business by its owner can be tracked with this account.,Equity,0.0,,False,,GHS,
+2620362000000072001,Purchase Discounts,223500006.0,Tracks any reduction that your vendor offers on your purchases. Some vendors also provide them to encourage quick payment settlement.,Expense,0.0,,False,,GHS,
+2620362000000074012,Prepaid Expenses,112000003.0,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,Other Current Asset,0.0,,False,,GHS,
+2620362000000078013,Stanbic - GHS,111000007.0,,Bank,0.0,,False,9040007457531.0,GHS,
+2620362000000079019,Customs brokerage costs,221221004.0,,Cost Of Goods Sold,0.0,,False,,GHS,
+2620362000000082519,Bank of America Transactions,111000008.0,,Bank,0.0,,False,226001948699.0,USD,
+2620362000000090001,Jetcentre Nigeria Limited,111000009.0,,Bank,0.0,,False,36930431.0,NGN,
+2620362000000090525,Stanbic - USD,111000010.0,,Bank,0.0,,False,940007459062.0,USD,
+2620362000000092305,Insurance,223500007.0,,Expense,0.0,,False,,GHS,
+2620362000000102003,Trust account for Payroll,111000011.0,,Bank,0.0,,False,,GHS,
+2620362000000103001,Taxes,223600000.0,,Expense,0.0,,False,,GHS,
+2620362000000115029,Directors account,124000005.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000115055,Interest payables,121000006.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000115081,Jetstream Global Loan,122000001.0,,Long Term Liability,0.0,,False,,GHS,
+2620362000000115087,Ecobank - GHS,111000012.0,,Bank,0.0,,False,1441002415982.0,GHS,
+2620362000000118001,Interest rate on trade finance loan,221230004.0,,Cost Of Goods Sold,0.0,,False,,GHS,
+2620362000000125123,Logistics costs,221221007.0,"Airline and shipping line charges, terminal charges",Cost Of Goods Sold,0.0,,False,,GHS,
+2620362000000130045,Bonuses,222010002.0,,Expense,0.0,,False,,GHS,
+2620362000000130051,Social Security,222020000.0,,Expense,0.0,,False,,GHS,
+2620362000000130057,Training,222020001.0,,Expense,0.0,,False,,GHS,
+2620362000000130063,PAYE Tax,222030000.0,,Expense,0.0,,False,,GHS,
+2620362000000130069,Recruitment fees,222100000.0,,Expense,0.0,,False,,GHS,
+2620362000000130075,Air / Train / Car expenses,222101000.0,,Expense,0.0,,False,,GHS,
+2620362000000130081,Accomodation,222101001.0,,Expense,0.0,,False,,GHS,
+2620362000000159463,WHT Tax Payable,121000002.0,Withholding Tax Payable,Other Current Liability,0.0,,False,,GHS,
+2620362000000161108,Bank of America Transactions 2,111000013.0,,Bank,0.0,,False,,USD,
+2620362000000174018,Parking,223400002.0,The parking fares you pay while on business trips can be recorded under this expense category.,Expense,0.0,,False,,GHS,
+2620362000000176008,Sales to Customers (Cash),,,Other Current Asset,0.0,,False,,GHS,
+2620362000000256419,Cash At Hand,111000002.0,,Other Current Asset,0.0,,False,,GHS,
+2620362000000340271,Ecobank - Jetstream Technologies,111000014.0,,Bank,0.0,,False,1441002415977.0,GHS,
+2620362000000392142,Trade Finance Loan,112000004.0,,Other Current Asset,0.0,,False,,GHS,
+2620362000000425467,Utilities & Overhead,223500005.0,Newspaper supply and car wash,Expense,0.0,,False,,GHS,
+2620362000000425509,Transport (Local),223400002.0,Fuel for GN-5613-21,Expense,0.0,,False,,GHS,
+2620362000000425623,ICT,223100001.0,Airtime and data for the month of august,Expense,0.0,,False,,GHS,
+2620362000000425965,Legal Fees,224000001.0,Fims card for Axel amnd spouse Non-citizen ID cards,Expense,0.0,,False,,GHS,
+2620362000000426397,Sales & Marketing,223300001.0,Business cards for sales team,Expense,0.0,,False,,GHS,
+2620362000000426943,Travel,223400002.0,FUEL EXPENSE,Expense,0.0,,False,,GHS,
+2620362000000443222,Social Security payable,121000007.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000443228,PAYE tax payable,121000008.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000635037,Zenith Bank - Jetstream Africa - GHS,111000015.0,,Bank,0.0,,False,,GHS,
+2620362000000635041,Zenith Bank - Jetstream Tehcnologies - GHS,111000016.0,,Bank,0.0,,False,,GHS,
+2620362000000635045,Customer Deposits,121000009.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000635051,Loss and Theft,121000010.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000635057,Investor's debt for Trade Finance,123000002.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000000635063,Intercompany accounts,112000005.0,,Other Asset,0.0,,False,,GHS,
+2620362000000635069,Intercompany Loan,112000005.0,,Other Asset,0.0,,False,,GHS,
+2620362000000651639,Professional Fees,,Abigails covid-19 test,Expense,0.0,,False,,GHS,
+2620362000000725005,Staff insurance,222020002.0,,Expense,0.0,,False,,GHS,
+2620362000000725011,"Office services (water, electricity, internet)",223000008.0,,Expense,0.0,,False,,GHS,
+2620362000001063423,Salaries Payable,121000012.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000001063429,Freight Forwarding COGS Payable,121000013.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000001074381,Inter Branch Account,,,Other Current Liability,0.0,,False,,GHS,
+2620362000001435017,Intercompany Transfers,121000011.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000001491447,Balance adjustment,1.0,,Other Asset,0.0,,False,,GHS,
+2620362000001491453,Accounts Receivable adjustment,111000018.0,,Other Current Asset,0.0,,False,,GHS,
+2620362000001586003,Late Fee Income - TF,213100004.0,,Income,0.0,,False,,GHS,
+2620362000001823597,GT-Jetstream Technologies,111000017.0,,Bank,0.0,,False,2031307081110.0,GHS,
+2620362000001898271,Fidelity,111000018.0,,Bank,0.0,,False,1050763172611.0,GHS,
+2620362000001898275,Ecobank-USD,111000019.0,,Bank,0.0,,False,3441002210448.0,USD,
+2620362000001898279,GCB- Jetstream Technologies,111000020.0,,Bank,0.0,,False,1071180002894.0,GHS,
+2620362000001950001,Notional Account,111000021.0,,Bank,0.0,,False,,GHS,
+2620362000001952871,First Atlantic Bank,111000022.0,,Bank,0.0,,False,1513512751011.0,GHS,
+2620362000002060023,Ecobank -EUR,111000020.0,,Bank,0.0,,False,3441002212614.0,EUR,
+2620362000002124025,Freight,211000012.0,,Income,0.0,,False,,GHS,
+2620362000002124029,Logistics,211000013.0,,Income,0.0,,False,,GHS,
+2620362000002124033,Customs brokerage,211000014.0,,Income,0.0,,False,,GHS,
+2620362000002124037,Regulated bodies,211000015.0,,Income,0.0,,False,,GHS,
+2620362000002130041,Service fee,211000016.0,,Income,0.0,,False,,GHS,
+2620362000002130074,First/Last mile,211000017.0,,Income,0.0,,False,,GHS,
+2620362000002371279,Consolidated Bank Ghana,111000023.0,,Bank,0.0,,False,2092393100001.0,GHS,
+2620362000002459069,Consultant Payable,121000012.0,,Other Current Liability,0.0,,False,,GHS,
+2620362000002466045,Accumulated depreciation,225000002.0,,Fixed Asset,0.0,,False,,GHS,
+2620362000002482237,Project Sunshine Receivables,112000005.0,Should always be zero,Other Asset,0.0,,False,,GHS,
+2620362000002618416,Income Tax,121000014.0,,Other Liability,0.0,,False,,GHS,
+2620362000002618422,Deferred Tax,121000015.0,,Other Liability,0.0,,False,,GHS,
+2620362000002636504,FAB collateral account,111000019.0,Not visible. Created in order to show where other payments go to in FAB,Bank,0.0,,False,,GHS,
+2620362000002655104,Fidelity-USD,111000023.0,,Bank,0.0,,False,1971763172611.0,USD,
+2620362000002655108,Ecobank USD -Investment account,111000024.0,,Bank,0.0,,False,3441002210687.0,USD,
+2620362000002658467,First Atlantic Bank-USD,111000025.0,,Bank,0.0,,False,1513511112028.0,USD,
+2620362000002828118,FBN- Jetstream Technologies-GHS,,,Bank,0.0,,False,32030007337.0,GHS,
+2620362000002828122,FBN-Jetstream Technologies- USD,,,Bank,0.0,,False,32060001397.0,USD,
+2620362000003109001,Payment payable,121000014.0,,Other Current Liability,0.0,,False,,GHS,

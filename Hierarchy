@@ -1,0 +1,197 @@
+level_6,level_5,level_4,level_3,level_2,level_1,level_0,code
+Profit & Loss,Income,Other Income,Other Income,Other Income,Other Income,Other Charges,223500001
+Profit & Loss,Expenses,Operating expenses,Travel & Entertainments,Travel & Entertainments,Travel & Entertainments,Lodging,223400001
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Cash & Wallets,Cash & Wallets,Undeposited Funds,111000001
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Cash & Wallets,Cash & Wallets,Petty Cash,111000002
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Cash & Wallets,Cash & Wallets,MTN Mobile Money,111000003
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Cash & Wallets,Cash & Wallets,PayPal,111000004
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Cash & Wallets,Cash & Wallets,Transfer Wise,111000005
+Balance Sheet,Assets,Current Assets,Account receivables,Account receivables,Account receivables,Accounts Receivable,111000006
+Balance Sheet,Assets,Long term asset,Plant Property & Equipment,Plant Property & Equipment,Plant Property & Equipment,Furniture and Equipment,113000001
+Balance Sheet,Assets,Current Assets,Advance Tax,Advance Tax,Advance Tax,Advance Tax,112000001
+Balance Sheet,Liabilities,Current liabilities,Account payables,Account payables,Account payables,Accounts Payable,121000001
+Balance Sheet,Liabilities,Current liabilities,Tax Payable,Tax Payable,Tax Payable,Tax Payable,121000002
+Balance Sheet,Liabilities,Equity,Retained Earnings,Retained Earnings,Retained Earnings,Retained Earnings,124000001
+Balance Sheet,Liabilities,Equity,Owner's Equity,Owner's Equity,Owner's Equity,Owner's Equity,124000002
+Balance Sheet,Liabilities,Equity,Shareholders' Equity,Shareholders' Equity,Shareholders' Equity,Opening Balance Offset,124000003
+Profit & Loss,Income,Other Income,Other Income,Other Income,Other Income,Sales,212000001
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Freight Forwarding,Freight Forwarding,211000001
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Principal,Invoice Financing,213000001
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Principal,Duty Financing,213000004
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Principal,Cargo Financing,213000003
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Interest,Invoice Financing,213100001
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Interest,Duty Financing,213100002
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Interest,Cargo Financing,213100003
+Profit & Loss,Income,Other Income,Other Income,Other Income,Other Income,General Income,212000002
+Balance Sheet,Liabilities,Current liabilities,Other payables,Other trade payables,Unearned Revenue,Unearned Revenue,121000003
+Profit & Loss,Income,Other Income,Other Income,Other Income,Other Income,Interest Income,212000003
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Freight Forwarding,Late Fee Income - FF,212000004
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Office Supplies,223000001
+Profit & Loss,Expenses,Operating expenses,Marketing,Marketing,Marketing,Advertising And Marketing,223300001
+Profit & Loss,Income,Other Income,Other Income,Other Income,Other Income,Discount,212000005
+Profit & Loss,Expenses,Operating expenses,Financial expenses,Bank fees,Bank fees,Bank Fees and Charges,223200001
+Profit & Loss,Expenses,Operating expenses,Financial expenses,Bank fees,Bank fees,Credit Card Charges,223200002
+Profit & Loss,Expenses,Exchange Gain or Loss,Exchange Gain or Loss,Exchange Gain or Loss,Exchange Gain or Loss,Exchange Gain or Loss,223200003
+Profit & Loss,Expenses,Operating expenses,Travel & Entertainments,Travel & Entertainments,Travel & Entertainments,Travel Expense,223400002
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Telephone Expense,223000002
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Automobile Expense,223500002
+Profit & Loss,Expenses,Operating expenses,Technology,Technology,Technology,Software subscriptions,223100001
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Rent Expense,223000003
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Janitorial Expense,223000004
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Shipping Charge,223000005
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Postage,223000006
+Profit & Loss,Expenses,Operating expenses,Financial expenses,Bad Debt,Bad Debt,Bad Debt,223200004
+Balance Sheet,Assets,Current Assets,Other receivables,Other receivables,Other receivables,Employee Advance,112000002
+Balance Sheet,Liabilities,Current liabilities,Other payables,Other payables,Other payables,Opening Balance Adjustments,121000004
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Printing and Stationery,223000007
+Balance Sheet,Liabilities,Current liabilities,Other payables,Employee Reimbursements,Employee Reimbursements,Employee Reimbursements,121000005
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Uncategorized,223500003
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,Compensation,Salaries and Employee Wages,Salaries and Employee Wages,222010001
+Profit & Loss,Expenses,Operating expenses,Travel & Entertainments,Travel & Entertainments,Travel & Entertainments,Meals and Entertainment,223400003
+Profit & Loss,Expenses,Depreciation,Depreciation,Depreciation,Depreciation,Depreciation Expense,225000001
+Profit & Loss,Expenses,Professional services,Professional services,Professional services,Professional services,Consultant Expense,224000001
+Balance Sheet,Liabilities,Other liabilities,Other liabilities,Other liabilities,Other liabilities,Tag Adjustments,123000001
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Repairs and Maintenance,223500004
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Other Expenses,223500005
+Balance Sheet,Assets,Long term asset,Plant Property & Equipment,Plant Property & Equipment,Plant Property & Equipment,Inventory Asset,113000002
+Profit & Loss,Expenses,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,221000001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,Freight costs,221220001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea Freight - Import,221221001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,First/Last mile costs,221221002
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - First/last Mile - Labour,221221003
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,Customs brokerage costs,221221004
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Origin Custom - Interest charges,221221005
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,Regulated bodies certificates costs,221221006
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,Logistics costs,221221007
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Shipping line charges - Administrative charges,221221008
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Shipping line charges - Demurrages,221221009
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Terminal charges - Demurrage,221221010
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Terminal charges - Storage,221221011
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Terminal charges - Administrative fees,221221012
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Destination Custom Duties,221221013
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Destination Custom - Interest charges,221221014
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight - Import,Sea import - Destination Regulators - Certificates,221221015
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea Freight - Export,221222001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - First/Last Mile - Transportation,221222002
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - First/Last Mile - Labour,221222003
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Origin Custom Duties,221222004
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Origin Custom - Interest charges,221222005
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Origin Regulators - Certificates,221222006
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Shipping line charges,221222007
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Shipping line charges - Administrative charges,221222008
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Shipping line charges - Demurrages,221222009
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Terminal charges - Demurage,221222010
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Terminal chrages - Storage,221222011
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Terminal charges - Administrative fees,221222012
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Destination Custom Duties,221222013
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Destination Custom - Interest charges,221222014
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Sea Freight,Sea Freight-Export,Sea export - Destination Regulators - Certificates,221222015
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Freight Forwarding,Freight Forwarding,Admistrative costs,221100001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight,Air Freight,221210001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air Freight - Export,221211001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - First/Last Mile - Transportation,221211002
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - First/Last Mile - Labour,221211003
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Origin Customs Duties,221211004
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Origin Custom - Interest charge,221211005
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Origin Regulators - Certificates,221211006
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Airline charges,221211007
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Airline charges - Administrative charges,221211008
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Terminal charges - Warehouse storage,221211009
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Terminal charges - Administrative fees,221211010
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Destination Customs Duties,221211011
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Destination Custom - Interest charge,221211012
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Export,Air export - Destination Regulators - Certificates,221211013
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air Freight-Import,221212001
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - First/Last Mile - Transportation,221212002
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - First/Last Mile - Labour,221212003
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Origin Customs Duties,221212004
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Origin Custom - Interest charges,221212005
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Origin Regulators - Certificates,221212006
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Airline charges,221212007
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Airline charges - Administrative charges,221212008
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Terminal charges - Warehouse storage,221212009
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Terminal charges - Administrative fees,221212010
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Destination Customs Duties,221212011
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Destination Custom - Interest charges,221212012
+Profit & Loss,Expenses,Cost of Goods Sold,Freight Forwarding,Air Freight,Air Freight-Import,Air import - Destination Regulators - Certificate,221212013
+Balance Sheet,Liabilities,Equity,Shareholders' Equity,Shareholders' Equity,Shareholders' Equity,Drawings,124000004
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Purchase Discounts,223500006
+Balance Sheet,Assets,Current Assets,Other receivables,Other receivables,Other receivables,Prepaid Expenses,112000003
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Stanbic - Jetstream Africa - GHS,111000007
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Bank of America Transactions,111000008
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Jetcentre Nigeria Limited - Stanbic NGN,111000009
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Stanbic - Jetstream Africa - USD,111000010
+Profit & Loss,Expenses,Operating expenses,Other Expenses,Other Expenses,Other Expenses,Insurance,223500007
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Trust account for Payroll,111000011
+Profit & Loss,Expenses,Taxes,Taxes,Taxes,Taxes,Taxes,223600000
+Balance Sheet,Liabilities,Equity,Stated Capital,Stated Capital,Stated Capital,Stated Capital,124000005
+Balance Sheet,Liabilities,Current liabilities,Other payables,Interest payables,Interest payables,Interest payables,121000006
+Balance Sheet,Liabilities,Long term liabilities,Long term liabilities,Jetstream Global Loan,Jetstream Global Loan,Jetstream Global Loan,122000001
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Ecobank - Jetstream Africa - GHS,111000012
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Trade Finance,Interest rate on trade finance loan,213000002
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,Compensation,Salaries and Employee Wages,Bonuses,222010002
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,Benefits,Benefits,Social Security,222020000
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,Benefits,Benefits,Training,222020001
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,PAYE,PAYE,PAYE Tax,222030000
+Profit & Loss,Expenses,Personnel costs,Recruiting & relocation,Recruiting & relocation,Recruiting fees,Recruitment fees,222100000
+Profit & Loss,Expenses,Personnel costs,Recruiting & relocation,Recruiting & relocation,Relocation charges,Air / Train / Car expenses,222101000
+Profit & Loss,Expenses,Personnel costs,Recruiting & relocation,Recruiting & relocation,Relocation charges,Accomodation,222101001
+Profit & Loss,Expenses,Personnel costs,Recruiting & relocation,Recruiting & relocation,Relocation charges,Other Expenses,222101002
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Air Freight,Air Freight,211000002
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Sea Freight,Sea Freight,211000003
+Profit & Loss,Expenses,Cost of Goods Sold,Trade Finance,Trade Finance,Trade Finance,Invoice Financing,221230001
+Profit & Loss,Expenses,Cost of Goods Sold,Trade Finance,Trade Finance,Trade Finance,Duty Financing,221230002
+Profit & Loss,Expenses,Cost of Goods Sold,Trade Finance,Trade Finance,Trade Finance,Cargo Financing,221230003
+Profit & Loss,Expenses,Cost of Goods Sold,Trade Finance,Trade Finance,Trade Finance,Trade Finance,221230000
+Profit & Loss,Expenses,Cost of Goods Sold,Trade Finance,Trade Finance,Trade Finance,Interest charges on Trade Finance,221230004
+Balance Sheet,Assets,Current Assets,Account receivables,Account receivables,Account receivables,Account receivables,112000004
+Profit & Loss,Expenses,Cost of Goods Sold,Technology,Technology,Technology,Technology platform development,221100002
+Balance Sheet,Liabilities,Current liabilities,Other payables,Payroll payables,Social charges & taxes payables,Social Security payable,121000007
+Balance Sheet,Liabilities,Current liabilities,Other payables,Payroll payables,Social charges & taxes payables,PAYE tax payable,121000008
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Freight Forwarding,Repayment Commission,211000011
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Bank of America Transactions II,111000013
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Ecobank - Jetstream Technologies - GHS,111000014
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Zenith Bank - Jetstream Africa - GHS,111000015
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Zenith Bank - Jetstream Tehcnologies - GHS,111000016
+Balance Sheet,Liabilities,Current liabilities,Other payables,Other trade payables,Customer Deposits,Customer Deposits,121000009
+Balance Sheet,Liabilities,Current liabilities,Other payables,Other payables,Loss and Theft,Loss and Theft,121000010
+Balance Sheet,Liabilities,Current liabilities,Investor's debt for Trade Finance,Investor's debt for Trade Finance,Investor's debt for Trade Finance,Investor's debt for Trade Finance,123000002
+Balance Sheet,Liabilities,Current liabilities,Other payables,Intercompany accounts,Intercompany accounts,Intercompany accounts,121000011
+Balance Sheet,Assets,Current Assets,Intercompany accounts,Intercompany accounts,Intercompany accounts,Intercompany Loan,112000005
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,"Office Services (water, electricity, internet)",223000008
+Profit & Loss,Expenses,Personnel costs,Compensation & Benefits,Benefits,Benefits,Staff insurance,222020002
+Profit & Loss,Income,Technology platform,Technology platform,Technology platform,Technology platform,Technology platform,214000000
+Balance Sheet,Liabilities,Current liabilities,Other payables,Payroll payables,Salaries payables,Salaries payable,121000012
+Balance Sheet,Liabilities,Current liabilities,Account payables,Account payables,Account payables,Freight Forwarding COGS payable,121000013
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Bank of America Invesment,111000017
+Balance Sheet,Liabilities,Equity,Investor's Equity,Investor's Equity,Investor's Equity,Investor's Equity,124000006
+Profit & Loss,Expenses,Operating expenses,Travel & Entertainments,Travel & Entertainments,Travel & Entertainments,Transport,223400004
+Profit & Loss,Expenses,Operating expenses,Travel & Entertainments,Travel & Entertainments,Travel & Entertainments,Air fairs,223400005
+Profit & Loss,Expenses,Operating expenses,Office management,Office management,Office management,Overhead,223000009
+Balance Sheet,Assets,Long term asset,Long term asset,Long term asset,Long term asset,Participation,124000007
+Balance adjustment,Balance adjustment,Balance adjustment,Balance adjustment,Balance adjustment,Balance adjustment,Balance adjustment,1
+Balance Sheet,Assets,Current Assets,Account receivables,Account receivables,Account receivables,Accounts Receivable adjustment,111000018
+Profit & Loss,Income,Trade Finance,Trade Finance,Trade Finance,Interest,Late Fee Income - TF,213100004
+Balance Sheet,Liabilities,Current liabilities,Other payables,Other trade payables,Other trade payables,Other trade payables,121000014
+Balance Sheet,Assets,Long term asset,Plant Property & Equipment,Plant Property & Equipment,Plant Property & Equipment,Accumulated depreciation,225000002
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Reimbursable expenses,Freight,211000012
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Reimbursable expenses,Logistics,211000013
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Reimbursable expenses,First/Last mile,211000017
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Reimbursable expenses,Regulated bodies,211000015
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Value-added services,Service fee,211000016
+Profit & Loss,Income,Freight Forwarding,Freight Forwarding,Freight Forwarding,Value-added services,Customs brokerage,211000014
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Deposit accounts,FAB USD Collateral account,111000019
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Deposit accounts,FAB GHS Collateral account,111000020
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,FAB Current GHS,111000021
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,FAB Trade finance transactions,111000022
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,FAB Current USD,111000023
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,FAB GHS overdraft,111000024
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Ecobank - Jetstream Technologies - EUR,111000025
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Ecobank - Jetstream Technologies - GBP,111000026
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Ecobank - Jetstream Technologies - USD,111000027
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Deposit accounts,Ecobank - Jetstream Technologies - USD Collateral,111000028
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,Jetcentre Nigeria Limited - Stanbic USD,111000029
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,First Bank Nigeria Current GHS,111000030
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,First Bank Nigeria Current USD,111000031
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Deposit accounts,First Bank Nigeria Collateral USD,111000032
+Balance Sheet,Assets,Current Assets,Cash and equivalent,Banks,Current accounts,First Bank Nigeria Trade finance GHS,111000033
